@@ -1,0 +1,10 @@
+<resources>
+    <!-- Extracted directly from the PCU seal artwork -->
+    <color name="pcu_blue">#27419A</color>
+    <color name="pcu_blue_dark">#1A2F73</color>
+    <color name="pcu_blue_light">#5467AE</color>
+    <color name="pcu_blue_tint">#C1C8E2</color>
+    <color name="pcu_white">#FFFFFF</color>
+
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
