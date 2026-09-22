@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="pcu_blue">#27419A</color>
+    <color name="pcu_blue_dark">#1A2F73</color>
+    <color name="pcu_blue_light">#5467AE</color>
+    <color name="pcu_blue_tint">#C1C8E2</color>
+    <color name="pcu_white">#FFFFFF</color>
+    <string name="app_name">PCU-Connect</string>
+    <style name="Theme.PCUConnect" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/pcu_blue_dark</item>
+        <item name="android:windowBackground">@color/pcu_white</item>
+    </style>
+</resources>

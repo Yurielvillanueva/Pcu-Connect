@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "edu.pcu.connect.app-mergeDebugResources-40:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\getal\\.gradle\\caches\\9.6.0\\transforms\\ef3e2a87f4d93b894752d1f8c9586013\\transformed\\material3\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
