@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "edu.pcu.connect.app-debug-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "edu.pcu.connect.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "edu.pcu.connect.app-debug-42:/drawable_pcu_logo.jpg.flat",
+        "source": "edu.pcu.connect.app-main-44:/drawable/pcu_logo.jpg"
+    },
+    {
+        "merged": "edu.pcu.connect.app-debug-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "edu.pcu.connect.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "edu.pcu.connect.app-debug-42:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "edu.pcu.connect.app-main-44:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "edu.pcu.connect.app-debug-42:/drawable_pcu_campus.jpg.flat",
+        "source": "edu.pcu.connect.app-main-44:/drawable/pcu_campus.jpg"
+    },
+    {
+        "merged": "edu.pcu.connect.app-debug-42:/drawable_pcu_campus_darkened.jpg.flat",
+        "source": "edu.pcu.connect.app-main-44:/drawable/pcu_campus_darkened.jpg"
+    }
+]
